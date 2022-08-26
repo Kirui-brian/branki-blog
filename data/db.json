@@ -1,0 +1,26 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "title": "Welcome to the new Branki blog.",
+            "body": "lorem ipsum dolor sit amet, consectetur adip incididunt labor tempor incididunt ut labore et dolore magna aliqu fugiat nulla pariatur et non proident par ",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "The Only University along the Equator Admission Process",
+            "body":"lorem ipsum dolor sit amet, consectetur adip incididunt labor tempor incididunt ut labore et dolore magna aliqu fugiat nulla pariatur et non proident par",
+            "tags": [
+                "Siriba",
+                "Nyawita",
+                "Mabungo",
+                "College",
+                "Vet"
+            ]
+        }
+    ]
+}
